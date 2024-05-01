@@ -11,8 +11,7 @@ This Android application provides users with an interface to check weather detai
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Caption for Screenshot 1*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Caption for Screenshot 2*
+![Screenshot 1](https://github.com/Gehan99/Weather-Application/blob/main/WatherApp/app/1.jpeg)
+![Screenshot 1](https://github.com/Gehan99/Weather-Application/blob/main/WatherApp/app/2.jpeg)
+![Screenshot 1](https://github.com/Gehan99/Weather-Application/blob/main/WatherApp/app/3.jpeg)
+![Screenshot 1](https://github.com/Gehan99/Weather-Application/blob/main/WatherApp/app/4.jpeg)
