@@ -16,4 +16,4 @@ This Android application provides users with an interface to check weather detai
 ![Screenshot 1](https://github.com/Gehan99/Weather-Application/blob/main/WatherApp/app/3.jpeg)
 ![Screenshot 1](https://github.com/Gehan99/Weather-Application/blob/main/WatherApp/app/4.jpeg)
 
-Chathushka
+Chathushka GG
